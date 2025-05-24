@@ -30,3 +30,10 @@ This is a personal portfolio website showcasing various skills and work samples.
 
 ## Visit
 [Portfolio Blog](https://ramugarkini.blogspot.com/)
+
+## License
+Copyright © 2025 Ramu Garkini
+
+All rights reserved.  
+Redistribution, modification, or commercial use without explicit permission is strictly prohibited.
+
